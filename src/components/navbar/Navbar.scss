@@ -1,0 +1,12 @@
+.navbar{
+    display: flex;
+
+    .nav-wrapper{
+        display: flex;
+        flex-direction: row;
+
+        .nav-social{
+            display: flex;
+        }
+    }
+}
